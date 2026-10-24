@@ -1,0 +1,20 @@
+{
+  "name": "KANCIONERO-KARLA",
+  "short_name": "KANCIONERO-KARLA",
+  "lang": "es",
+  "start_url": "./KANCIONERO-KARLA.html",
+  "scope": "./",
+  "id": "./KANCIONERO-KARLA.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#243447",
+  "description": "Cancionero web personal con setlists y modo intérprete",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
